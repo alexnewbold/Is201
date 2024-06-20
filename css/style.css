@@ -1,0 +1,38 @@
+body{
+     background-color: rgb(203, 225, 239) ;
+     color: rgb(3, 40, 72);
+}
+
+h1,h2,h3,h4,h5,h6 {
+    font-family: 'Georgia', Times, serif, serif;
+}
+
+*{
+    text-align: center;
+}
+
+.bordered-list{
+    border:1px solid black;
+    padding:10px;
+}
+
+ol,ul{
+    list-style-position: inside;
+}
+.header{
+    color:black;
+}
+.headers{
+    color: #888;
+}
+.important{
+    font-style:italic;
+}
+
+.makeitbold{
+    font-weight: bold;
+}
+
+.changefont{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
